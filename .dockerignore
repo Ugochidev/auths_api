@@ -1,0 +1,8 @@
+.git/
+.gitignore
+node_modules/
+Dockerfile
+docker-compose.yml
+Readme.md
+env.example
+.prettierrc
